@@ -36,9 +36,11 @@ Model Training & Evaluation
 full_pipeline.fit(x_train, y_train)
 
 
+
 📊 Objective
 
 Predict if an employee is likely to leave the organization and help HR make proactive retention decisions.
+
 
 
 📝 How to Run
@@ -46,6 +48,7 @@ Predict if an employee is likely to leave the organization and help HR make proa
 pip install -r requirements.txt
 
 streamlit run app.py
+
 
 
 📦 Output
